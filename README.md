@@ -19,7 +19,41 @@
 
 - 📝 I regularly write articles on [https://julianfrank.wordpress.com](https://julianfrank.wordpress.com)
 
-- 💬 Ask me about **{Hobby Stack: [Microsoft : {Cloud:Azure,Collaboration:Teams}}, {Amazon :{Cloud:AWS,CX:[Connect,CCI]}}}**
+- 💬 Ask me about
+```
+{
+  "Hobby Stack": [
+    {
+      "Microsoft": {
+        "Cloud": "Azure",
+        "Collaboration": [
+          "Microsoft Teams",
+          "Microsoft Office365"
+        ]
+      }
+    },
+    {
+      "Amazon": {
+        "Cloud": "AWS",
+        "CX": [
+          "Connect",
+          "CCI"
+        ]
+      }
+    },
+    {
+      "Google": {
+        "Cloud": "GCP",
+        "CX": [
+          "DialogFlow",
+          "CCAI"
+        ]
+      }
+    }
+  ]
+}
+```
+
 
 - 📫 How to reach me **julianthefrank@gmail.com**
 
