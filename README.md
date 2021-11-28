@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Amazon Container / Serverless Solutions**
 
-- 👯 I’m looking to collaborate on **Multi Cloud Architecture - Apps that can work across multiple cloud providers**
+- 👯 I’m looking to collaborate on **Multi Cloud Architecture - App Architecture that can work across multiple cloud providers**
 
 - 🤝 I’m looking for help with **Hobby AI Assistant that works independent of hyperscalers**
 
@@ -20,48 +20,66 @@
 - 📝 I regularly write articles on [https://julianfrank.wordpress.com](https://julianfrank.wordpress.com)
 
 - 💬 Ask me about
+
 ```
 {
   "Hobby Stack": [
     {
       "Microsoft": {
         "Cloud": "Azure",
-        "Collaboration": [
-          "Microsoft Teams",
-          "Microsoft Office365"
-        ]
+        "Collaboration": ["Microsoft Teams", "Microsoft Office365"]
       }
     },
     {
       "Amazon": {
-        "Cloud": "AWS",
-        "CX": [
-          "Connect",
-          "CCI"
-        ]
+        "Cloud": {
+          "AWS": {
+            "CLIV2": "⭐⭐",
+            "₹ Costing $": "⭐⭐⭐⭐",
+            "S3": "⭐⭐⭐⭐⭐",
+            "EC2": "⭐⭐⭐⭐⭐",
+            "ECS": "⭐⭐⭐⭐",
+            "Copilot": "⭐⭐⭐⭐"
+          }
+        },
+        "CX": ["Connect", "CCI"]
       }
     },
     {
       "Google": {
         "Cloud": "GCP",
-        "CX": [
-          "DialogFlow",
-          "CCAI"
-        ]
+        "CX": ["DialogFlow", "CCAI"]
+      }
+    },
+    {
+        "Heroku":{
+            "CLI": "⭐⭐⭐⭐",
+            "Web": "⭐⭐⭐⭐⭐"
+        }
+    }
+    {
+      "Terraform": {
+        "CLI": "⭐⭐⭐⭐⭐",
+        "Web": "⭐⭐⭐⭐⭐",
+        "AWS": "⭐⭐⭐⭐",
+        "GCP": "⭐⭐⭐",
+        "Azure": "⭐⭐⭐⭐"
       }
     }
   ]
 }
-```
 
+
+```
 
 - 📫 How to reach me **julianthefrank@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/julianfrank/](https://www.linkedin.com/in/julianfrank/)
 
-- ⚡ Fun fact **My Day Job has nothing to do with my Hobby**
+- ⚡ Fun fact **I find JSON & YAML to be much more expressive than English**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -85,3 +103,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julianfrank&show_icons=true&locale=en" alt="julianfrank" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julianfrank&" alt="julianfrank" /></p>
+
+-🙏 ***The First Version of this page was build using [ReadMe Genrator by Rahul Jain](https://rahuldkjain.github.io/gh-profile-readme-generator/) Thanks [Rahul Jain](https://github.com/rahuldkjain)***
