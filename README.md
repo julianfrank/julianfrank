@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/julianthefrank" target="blank"><img src="https://img.shields.io/twitter/follow/julianthefrank?logo=twitter&style=for-the-badge" alt="julianthefrank" /></a> </p>
 
-- 🔭 I’m currently working on [aws copilot Intro](https://github.com/julianfrank/learnawscopilot)
+- 🔭 I’m currently working on [aws copilot Intro VLog](https://github.com/julianfrank/learnawscopilot)
 
 - 🌱 I’m currently learning **Amazon Container / Serverless Solutions**
 
@@ -19,58 +19,7 @@
 
 - 📝 I regularly write articles on [https://julianfrank.wordpress.com](https://julianfrank.wordpress.com)
 
-- 💬 Ask me about
-
-```
-{
-  "Hobby Stack": [
-    {
-      "Microsoft": {
-        "Cloud": "Azure",
-        "Collaboration": ["Microsoft Teams", "Microsoft Office365"]
-      }
-    },
-    {
-      "Amazon": {
-        "Cloud": {
-          "AWS": {
-            "CLIV2": "⭐⭐",
-            "₹ Costing $": "⭐⭐⭐⭐",
-            "S3": "⭐⭐⭐⭐⭐",
-            "EC2": "⭐⭐⭐⭐⭐",
-            "ECS": "⭐⭐⭐⭐",
-            "Copilot": "⭐⭐⭐⭐"
-          }
-        },
-        "CX": ["Connect", "CCI"]
-      }
-    },
-    {
-      "Google": {
-        "Cloud": "GCP",
-        "CX": ["DialogFlow", "CCAI"]
-      }
-    },
-    {
-        "Heroku":{
-            "CLI": "⭐⭐⭐⭐",
-            "Web": "⭐⭐⭐⭐⭐"
-        }
-    }
-    {
-      "Terraform": {
-        "CLI": "⭐⭐⭐⭐⭐",
-        "Web": "⭐⭐⭐⭐⭐",
-        "AWS": "⭐⭐⭐⭐",
-        "GCP": "⭐⭐⭐",
-        "Azure": "⭐⭐⭐⭐"
-      }
-    }
-  ]
-}
-
-
-```
+- 💬 Ask me about [Topics](skills.json)
 
 - 📫 How to reach me **julianthefrank@gmail.com**
 
@@ -104,4 +53,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julianfrank&" alt="julianfrank" /></p>
 
--🙏 ***The First Version of this page was build using [ReadMe Genrator by Rahul Jain](https://rahuldkjain.github.io/gh-profile-readme-generator/) Thanks [Rahul Jain](https://github.com/rahuldkjain)***
+-🙏 ***The First Version of this page was build using [ReadMe Generator by Rahul Jain](https://rahuldkjain.github.io/gh-profile-readme-generator/) Thanks [Rahul Jain](https://github.com/rahuldkjain)***
