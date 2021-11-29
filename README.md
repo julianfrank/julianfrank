@@ -56,7 +56,7 @@ Hobby Stack:
           ECS: ⭐⭐⭐⭐
           Copilot: ⭐⭐⭐⭐
   - Google:
-      Cloud: 
+      Cloud:
         GCP: ⭐⭐⭐
         Cloud Run: ⭐⭐⭐⭐
   - Heroku:
@@ -68,7 +68,6 @@ Hobby Stack:
       AWS: ⭐⭐⭐⭐
       GCP: ⭐⭐⭐
       Azure: ⭐⭐⭐⭐
-
 ```
 
 - 📫 How to reach me **julianthefrank@gmail.com**
@@ -103,4 +102,4 @@ Hobby Stack:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julianfrank&" alt="julianfrank" /></p>
 
--🙏 ***The First Version of this page was build using [ReadMe Generator by Rahul Jain](https://rahuldkjain.github.io/gh-profile-readme-generator/) Thanks [Rahul Jain](https://github.com/rahuldkjain)***
+-🙏 **_The First Version of this page was build using [ReadMe Generator by Rahul Jain](https://rahuldkjain.github.io/gh-profile-readme-generator/) Thanks [Rahul Jain](https://github.com/rahuldkjain)_**
