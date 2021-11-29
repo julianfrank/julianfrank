@@ -19,7 +19,57 @@
 
 - 📝 I regularly write articles on [https://julianfrank.wordpress.com](https://julianfrank.wordpress.com)
 
-- 💬 Ask me about [Topics](skills.json)
+- 💬 **Ask me about**
+
+```yaml
+Star Rating Guide:
+  ⭐: I can describe this to you as well as any sales guy
+  ⭐⭐: I have tried it out as part of tutorials or hello-world level
+  ⭐⭐⭐: Used this in practical solution
+  ⭐⭐⭐⭐: Got full understanding techno-commercially and competitive products
+  ⭐⭐⭐⭐⭐: I built it and-or it is part of my ego now
+# Stuff I need for my day job
+Job Stack:
+  - Amazon:
+      CX:
+        Connect: ⭐⭐⭐⭐
+        CCI: ⭐⭐⭐⭐
+  - Google:
+      CX:
+        DialogFlow: ⭐⭐⭐⭐
+        CCAI: ⭐⭐
+
+# Hobby Tech and concepts
+Hobby Stack:
+  - Microsoft:
+      Cloud: Azure
+      Collaboration:
+        - Microsoft Teams
+        - Microsoft Office365
+  - Amazon:
+      Cloud:
+        AWS:
+          CLIV2: ⭐⭐
+          ₹ Costing $: ⭐⭐⭐⭐
+          S3: ⭐⭐⭐⭐
+          EC2: ⭐⭐⭐⭐
+          ECS: ⭐⭐⭐⭐
+          Copilot: ⭐⭐⭐⭐
+  - Google:
+      Cloud: 
+        GCP: ⭐⭐⭐
+        Cloud Run: ⭐⭐⭐⭐
+  - Heroku:
+      CLI: ⭐⭐⭐
+      Web: ⭐⭐⭐⭐
+  - Terraform:
+      CLI: ⭐⭐⭐⭐
+      Web: ⭐⭐⭐⭐
+      AWS: ⭐⭐⭐⭐
+      GCP: ⭐⭐⭐
+      Azure: ⭐⭐⭐⭐
+
+```
 
 - 📫 How to reach me **julianthefrank@gmail.com**
 
