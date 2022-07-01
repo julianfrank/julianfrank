@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [aws copilot Intro VLog](https://github.com/julianfrank/learnawscopilot)
 
-- 🌱 I’m currently learning **Amazon Container / Serverless Solutions**
+- 🌱 I’m currently learning **Metaverse Engines**
 
-- 👯 I’m looking to collaborate on **Multi Cloud Architecture - App Architecture that can work across multiple cloud providers**
+- 👯 I’m looking to collaborate on **Multi Cloud Web3 Architecture - App Architecture that can work across multiple cloud providers**
 
 - 🤝 I’m looking for help with **Hobby AI Assistant that works independent of hyperscalers**
 
