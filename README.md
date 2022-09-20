@@ -22,22 +22,16 @@
 - 💬 **Ask me about**
 
 ```yaml
-Star Rating Guide:
-  ⭐: I can describe this to you as well as any sales guy
-  ⭐⭐: I have tried it out as part of tutorials or hello-world level
-  ⭐⭐⭐: Used this in practical solution
-  ⭐⭐⭐⭐: Got full understanding techno-commercially and competitive products
-  ⭐⭐⭐⭐⭐: I built it and-or it is part of my ego now
 # Stuff I need for my day job
 Job Stack:
   - Amazon:
       CX:
-        Connect: ⭐⭐⭐⭐
-        CCI: ⭐⭐⭐⭐
+        Connect
+        CCI
   - Google:
       CX:
-        DialogFlow: ⭐⭐⭐⭐
-        CCAI: ⭐⭐
+        DialogFlow
+        CCAI
 
 # Hobby Tech and concepts
 Hobby Stack:
@@ -49,25 +43,30 @@ Hobby Stack:
   - Amazon:
       Cloud:
         AWS:
-          CLIV2: ⭐⭐
-          ₹ Costing $: ⭐⭐⭐⭐
-          S3: ⭐⭐⭐⭐
-          EC2: ⭐⭐⭐⭐
-          ECS: ⭐⭐⭐⭐
-          Copilot: ⭐⭐⭐⭐
+          CLIV2
+          ₹ Costing $
+          S3
+          Route53
+          ACM
+          EC2
+          ECS
+          Copilot
+          Amplify
   - Google:
       Cloud:
-        GCP: ⭐⭐⭐
-        Cloud Run: ⭐⭐⭐⭐
+        GCP
+        Cloud Run
   - Heroku:
-      CLI: ⭐⭐⭐
-      Web: ⭐⭐⭐⭐
+      CLI
+      Web
   - Terraform:
-      CLI: ⭐⭐⭐⭐
-      Web: ⭐⭐⭐⭐
-      AWS: ⭐⭐⭐⭐
-      GCP: ⭐⭐⭐
-      Azure: ⭐⭐⭐⭐
+      CLI
+      Web
+      Targets:
+        - AWS
+        - GCP
+        - Azure
+        - Cloudflare
 ```
 
 - 📫 How to reach me **julianthefrank@gmail.com**
