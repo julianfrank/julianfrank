@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/julianthefrank" target="blank"><img src="https://img.shields.io/twitter/follow/julianthefrank?logo=twitter&style=for-the-badge" alt="julianthefrank" /></a> </p>
 
-- 🔭 I’m currently working on [aws copilot Intro VLog](https://github.com/julianfrank/learnawscopilot)
+- 🔭 I’m currently working on **AWS Amplify**
 
 - 🌱 I’m currently learning **Metaverse Engines**
 
